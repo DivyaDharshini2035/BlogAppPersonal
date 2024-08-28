@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "101010101",
+      "title": "Discovering the Beauty of Kyoto",
+      "datetime": "April 12th, 2024 10:00:00 AM",
+      "body": "My journey through Kyoto was filled with serene temples, beautiful cherry blossoms, and a deep sense of history. Walking through the bamboo groves and visiting the Fushimi Inari Shrine were truly unforgettable experiences."
+    },
+    {
+      "id": "202020202",
+      "title": "A Magical Week in Santorini",
+      "datetime": "May 5th, 2024 4:30:00 PM",
+      "body": "Santorini is a dream destination with its stunning sunsets and whitewashed buildings. From exploring the narrow streets of Oia to relaxing on the black sand beaches, every moment felt like a postcard come to life."
+    },
+    {
+      "id": "303030303",
+      "title": "Exploring the Wilderness of Patagonia",
+      "datetime": "June 20th, 2024 8:15:00 AM",
+      "body": "Patagonia’s rugged landscapes and breathtaking glaciers left me speechless. Hiking in Torres del Paine National Park and witnessing the majesty of the Perito Moreno Glacier were highlights of this adventure-packed trip."
+    },
+    {
+      "id": "404040404",
+      "title": "Vibrant Culture and Colors in Marrakech",
+      "datetime": "July 18th, 2024 7:00:00 PM",
+      "body": "Marrakech is a sensory delight with its bustling souks, vibrant markets, and aromatic spices. Exploring the beautiful Jardin Majorelle and getting lost in the medina were some of my favorite experiences in this colorful city."
+    }
+  ]
+}
